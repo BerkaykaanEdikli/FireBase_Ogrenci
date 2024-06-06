@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58323790778",
+    "project_id": "fir-ogrenci",
+    "storage_bucket": "fir-ogrenci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58323790778:android:fc1dec238d6118adb70b83",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ogrenci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3Vwv5aIYJ3zzqR2yJRL_MaE0Yi5is5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
